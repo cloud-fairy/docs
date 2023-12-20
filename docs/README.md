@@ -197,6 +197,7 @@ There is no need to keep the `.cloudfairy.build` artifact in your source code, a
 
 # What next?
 - Learn how to build your own modules for quick-reuse and modeling with cloudfairy.
+- Terraform is the default runtime, but not the only one.
 - Learn how cloudfairy works with tasks
 - Learn how to add plugins, to integrate with external systems, such as `backstage`, pricing calculators and other means.
 - Learn how to write your own plugins
